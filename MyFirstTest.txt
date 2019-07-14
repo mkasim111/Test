@@ -1,4 +1,8 @@
 My Test File is more kinda hungry
 Things gone sideways
+<<<<<<< HEAD
 Testxd
 Added new test to master branch
+=======
+Are you mad at me:(
+>>>>>>> thirsty
